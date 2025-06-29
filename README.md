@@ -1,7 +1,4 @@
 # Coding-final-project
-Final project for Python bootcamp
-
-# Coding-final-project
 
 Final project for the Computer Literacy Bootcamp.
 
